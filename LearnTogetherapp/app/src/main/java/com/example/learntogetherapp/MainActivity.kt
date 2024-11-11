@@ -81,7 +81,7 @@ fun Article(modifier: Modifier = Modifier) {
             fontSize = 16.sp,
             textAlign = TextAlign.Justify,
             modifier = Modifier
-                .padding(start = 16.dp, end = 16.dp, bottom = 16.dp)
+                .padding(16.dp)
         )
     }
 }
